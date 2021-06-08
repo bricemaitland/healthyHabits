@@ -1,0 +1,45 @@
+#login {
+    background-image: url("login1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#food {
+    background-image: url("foods.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#dash {
+    background-image: url("dash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#workout {
+    background-image: url("workout.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#weight {
+    background-image: url("scales.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#back {
+    background-image: url("back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bgtext {
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px 4px #000000;
+}
+
+.card {
+    background-color: rgb(210, 222, 226);
+    padding: .5rem;
+}
